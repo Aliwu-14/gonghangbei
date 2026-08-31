@@ -1,0 +1,436 @@
+{
+  "schemaVersion": "1.0",
+  "queryKey": "all",
+  "queryLabel": "全部产品",
+  "queryMenuLabel": "11/ALL",
+  "areaCode": "0000",
+  "pageNumber": 28,
+  "fetchedAt": "2026-08-21T14:41:14.353Z",
+  "totalPages": 138,
+  "totalRecords": 1375,
+  "sourceEntryUrl": "https://mybank.icbc.com.cn/icbc/newperbank/perbank3/finance/_financesub_out.jsp",
+  "sourceListUrl": "https://mybank.icbc.com.cn/servlet/ICBCBaseReqServletNoSession",
+  "productCount": 10,
+  "products": [
+    {
+      "productCode": "QL36602A",
+      "productName": "平安理财启元策略日开一年持有2号A",
+      "issuerLabel": "代销平安理财",
+      "salesStatus": "开放中",
+      "benchmarkLabel": "",
+      "benchmarkValue": "",
+      "primaryMetricLabel": "近一月年化收益",
+      "primaryMetricValue": "4.56%",
+      "unitNav": "",
+      "per10kIncome": "",
+      "annualizedYield": "",
+      "minimumPurchase": "1 元",
+      "term": "最短持有 366 天",
+      "metrics": [
+        {
+          "slot": 1,
+          "label": "近一月年化收益",
+          "value": "4.56%"
+        },
+        {
+          "slot": 2,
+          "label": "起购金额",
+          "value": "1 元"
+        },
+        {
+          "slot": 3,
+          "label": "期限",
+          "value": "最短持有 366 天"
+        }
+      ],
+      "metricsJson": "[{\"slot\":1,\"label\":\"近一月年化收益\",\"value\":\"4.56%\"},{\"slot\":2,\"label\":\"起购金额\",\"value\":\"1 元\"},{\"slot\":3,\"label\":\"期限\",\"value\":\"最短持有 366 天\"}]",
+      "salesRiskCode": "2",
+      "salesRiskLabel": "PR2-风险较低",
+      "pageNumber": 28,
+      "pageIndex": 0,
+      "queryKey": "all",
+      "queryMenuLabel": "11/ALL",
+      "areaCode": "0000",
+      "sourceUrl": "https://mybank.icbc.com.cn/icbc/newperbank/perbank3/finance/_financesub_out.jsp?Area_code=0000",
+      "retrievedAt": "2026-08-21T14:41:14.353Z"
+    },
+    {
+      "productCode": "26G2188A",
+      "productName": "工银理财·鑫添益最短持有60天固收开放理财产品（26G2188A）",
+      "issuerLabel": "代销工银理财",
+      "salesStatus": "开放中",
+      "benchmarkLabel": "",
+      "benchmarkValue": "",
+      "primaryMetricLabel": "成立以来年化收益",
+      "primaryMetricValue": "4.51%",
+      "unitNav": "",
+      "per10kIncome": "",
+      "annualizedYield": "",
+      "minimumPurchase": "1 元",
+      "term": "最短持有 60 天",
+      "metrics": [
+        {
+          "slot": 1,
+          "label": "成立以来年化收益",
+          "value": "4.51%"
+        },
+        {
+          "slot": 2,
+          "label": "起购金额",
+          "value": "1 元"
+        },
+        {
+          "slot": 3,
+          "label": "期限",
+          "value": "最短持有 60 天"
+        }
+      ],
+      "metricsJson": "[{\"slot\":1,\"label\":\"成立以来年化收益\",\"value\":\"4.51%\"},{\"slot\":2,\"label\":\"起购金额\",\"value\":\"1 元\"},{\"slot\":3,\"label\":\"期限\",\"value\":\"最短持有 60 天\"}]",
+      "salesRiskCode": "2",
+      "salesRiskLabel": "PR2-风险较低",
+      "pageNumber": 28,
+      "pageIndex": 1,
+      "queryKey": "all",
+      "queryMenuLabel": "11/ALL",
+      "areaCode": "0000",
+      "sourceUrl": "https://mybank.icbc.com.cn/icbc/newperbank/perbank3/finance/_financesub_out.jsp?Area_code=0000",
+      "retrievedAt": "2026-08-21T14:41:14.353Z"
+    },
+    {
+      "productCode": "26G6091G",
+      "productName": "工银理财·如意人生鑫悦股债精选最短持有60天固收增强开放个人",
+      "issuerLabel": "代销工银理财",
+      "salesStatus": "开放中",
+      "benchmarkLabel": "",
+      "benchmarkValue": "",
+      "primaryMetricLabel": "近一月年化收益",
+      "primaryMetricValue": "4.49%",
+      "unitNav": "",
+      "per10kIncome": "",
+      "annualizedYield": "",
+      "minimumPurchase": "1 元",
+      "term": "最短持有 60 天",
+      "metrics": [
+        {
+          "slot": 1,
+          "label": "近一月年化收益",
+          "value": "4.49%"
+        },
+        {
+          "slot": 2,
+          "label": "起购金额",
+          "value": "1 元"
+        },
+        {
+          "slot": 3,
+          "label": "期限",
+          "value": "最短持有 60 天"
+        }
+      ],
+      "metricsJson": "[{\"slot\":1,\"label\":\"近一月年化收益\",\"value\":\"4.49%\"},{\"slot\":2,\"label\":\"起购金额\",\"value\":\"1 元\"},{\"slot\":3,\"label\":\"期限\",\"value\":\"最短持有 60 天\"}]",
+      "salesRiskCode": "2",
+      "salesRiskLabel": "PR2-风险较低",
+      "pageNumber": 28,
+      "pageIndex": 2,
+      "queryKey": "all",
+      "queryMenuLabel": "11/ALL",
+      "areaCode": "0000",
+      "sourceUrl": "https://mybank.icbc.com.cn/icbc/newperbank/perbank3/finance/_financesub_out.jsp?Area_code=0000",
+      "retrievedAt": "2026-08-21T14:41:14.353Z"
+    },
+    {
+      "productCode": "26G2081A",
+      "productName": "工银理财·鑫添益最短14天双债精选策略固收增强开放（26G2081A）",
+      "issuerLabel": "代销工银理财",
+      "salesStatus": "开放中",
+      "benchmarkLabel": "",
+      "benchmarkValue": "",
+      "primaryMetricLabel": "成立以来年化收益",
+      "primaryMetricValue": "4.47%",
+      "unitNav": "",
+      "per10kIncome": "",
+      "annualizedYield": "",
+      "minimumPurchase": "1 元",
+      "term": "最短持有 14 天",
+      "metrics": [
+        {
+          "slot": 1,
+          "label": "成立以来年化收益",
+          "value": "4.47%"
+        },
+        {
+          "slot": 2,
+          "label": "起购金额",
+          "value": "1 元"
+        },
+        {
+          "slot": 3,
+          "label": "期限",
+          "value": "最短持有 14 天"
+        }
+      ],
+      "metricsJson": "[{\"slot\":1,\"label\":\"成立以来年化收益\",\"value\":\"4.47%\"},{\"slot\":2,\"label\":\"起购金额\",\"value\":\"1 元\"},{\"slot\":3,\"label\":\"期限\",\"value\":\"最短持有 14 天\"}]",
+      "salesRiskCode": "2",
+      "salesRiskLabel": "PR2-风险较低",
+      "pageNumber": 28,
+      "pageIndex": 3,
+      "queryKey": "all",
+      "queryMenuLabel": "11/ALL",
+      "areaCode": "0000",
+      "sourceUrl": "https://mybank.icbc.com.cn/icbc/newperbank/perbank3/finance/_financesub_out.jsp?Area_code=0000",
+      "retrievedAt": "2026-08-21T14:41:14.353Z"
+    },
+    {
+      "productCode": "25G5776A",
+      "productName": "工银理财·核心优选最短持有7天固收增强开放理财产品(25G5776A)",
+      "issuerLabel": "代销工银理财",
+      "salesStatus": "开放中",
+      "benchmarkLabel": "",
+      "benchmarkValue": "",
+      "primaryMetricLabel": "近三月年化收益",
+      "primaryMetricValue": "4.44%",
+      "unitNav": "",
+      "per10kIncome": "",
+      "annualizedYield": "",
+      "minimumPurchase": "1 元",
+      "term": "最短持有 7 天",
+      "metrics": [
+        {
+          "slot": 1,
+          "label": "近三月年化收益",
+          "value": "4.44%"
+        },
+        {
+          "slot": 2,
+          "label": "起购金额",
+          "value": "1 元"
+        },
+        {
+          "slot": 3,
+          "label": "期限",
+          "value": "最短持有 7 天"
+        }
+      ],
+      "metricsJson": "[{\"slot\":1,\"label\":\"近三月年化收益\",\"value\":\"4.44%\"},{\"slot\":2,\"label\":\"起购金额\",\"value\":\"1 元\"},{\"slot\":3,\"label\":\"期限\",\"value\":\"最短持有 7 天\"}]",
+      "salesRiskCode": "2",
+      "salesRiskLabel": "PR2-风险较低",
+      "pageNumber": 28,
+      "pageIndex": 4,
+      "queryKey": "all",
+      "queryMenuLabel": "11/ALL",
+      "areaCode": "0000",
+      "sourceUrl": "https://mybank.icbc.com.cn/icbc/newperbank/perbank3/finance/_financesub_out.jsp?Area_code=0000",
+      "retrievedAt": "2026-08-21T14:41:14.353Z"
+    },
+    {
+      "productCode": "25MC017A",
+      "productName": "中邮理财灵活·鸿运最短持有14天17号人民币理财产品",
+      "issuerLabel": "代销中邮理财",
+      "salesStatus": "开放中",
+      "benchmarkLabel": "",
+      "benchmarkValue": "",
+      "primaryMetricLabel": "近三月年化收益",
+      "primaryMetricValue": "4.41%",
+      "unitNav": "",
+      "per10kIncome": "",
+      "annualizedYield": "",
+      "minimumPurchase": "1 元",
+      "term": "最短持有 14 天",
+      "metrics": [
+        {
+          "slot": 1,
+          "label": "近三月年化收益",
+          "value": "4.41%"
+        },
+        {
+          "slot": 2,
+          "label": "起购金额",
+          "value": "1 元"
+        },
+        {
+          "slot": 3,
+          "label": "期限",
+          "value": "最短持有 14 天"
+        }
+      ],
+      "metricsJson": "[{\"slot\":1,\"label\":\"近三月年化收益\",\"value\":\"4.41%\"},{\"slot\":2,\"label\":\"起购金额\",\"value\":\"1 元\"},{\"slot\":3,\"label\":\"期限\",\"value\":\"最短持有 14 天\"}]",
+      "salesRiskCode": "2",
+      "salesRiskLabel": "PR2-风险较低",
+      "pageNumber": 28,
+      "pageIndex": 5,
+      "queryKey": "all",
+      "queryMenuLabel": "11/ALL",
+      "areaCode": "0000",
+      "sourceUrl": "https://mybank.icbc.com.cn/icbc/newperbank/perbank3/finance/_financesub_out.jsp?Area_code=0000",
+      "retrievedAt": "2026-08-21T14:41:14.353Z"
+    },
+    {
+      "productCode": "26FE009A",
+      "productName": "中邮理财福瑞·鸿锦最短持有90天6号理财产品",
+      "issuerLabel": "代销中邮理财",
+      "salesStatus": "开放中",
+      "benchmarkLabel": "",
+      "benchmarkValue": "",
+      "primaryMetricLabel": "近一月年化收益",
+      "primaryMetricValue": "4.37%",
+      "unitNav": "",
+      "per10kIncome": "",
+      "annualizedYield": "",
+      "minimumPurchase": "1 元",
+      "term": "最短持有 90 天",
+      "metrics": [
+        {
+          "slot": 1,
+          "label": "近一月年化收益",
+          "value": "4.37%"
+        },
+        {
+          "slot": 2,
+          "label": "起购金额",
+          "value": "1 元"
+        },
+        {
+          "slot": 3,
+          "label": "期限",
+          "value": "最短持有 90 天"
+        }
+      ],
+      "metricsJson": "[{\"slot\":1,\"label\":\"近一月年化收益\",\"value\":\"4.37%\"},{\"slot\":2,\"label\":\"起购金额\",\"value\":\"1 元\"},{\"slot\":3,\"label\":\"期限\",\"value\":\"最短持有 90 天\"}]",
+      "salesRiskCode": "2",
+      "salesRiskLabel": "PR2-风险较低",
+      "pageNumber": 28,
+      "pageIndex": 6,
+      "queryKey": "all",
+      "queryMenuLabel": "11/ALL",
+      "areaCode": "0000",
+      "sourceUrl": "https://mybank.icbc.com.cn/icbc/newperbank/perbank3/finance/_financesub_out.jsp?Area_code=0000",
+      "retrievedAt": "2026-08-21T14:41:14.353Z"
+    },
+    {
+      "productCode": "26G2788A",
+      "productName": "工银理财·鑫添益最短持有180天ESG优选固收增强开放（26G2788A）",
+      "issuerLabel": "代销工银理财",
+      "salesStatus": "开放中",
+      "benchmarkLabel": "",
+      "benchmarkValue": "",
+      "primaryMetricLabel": "成立以来年化收益",
+      "primaryMetricValue": "4.28%",
+      "unitNav": "",
+      "per10kIncome": "",
+      "annualizedYield": "",
+      "minimumPurchase": "1 元",
+      "term": "最短持有 180 天",
+      "metrics": [
+        {
+          "slot": 1,
+          "label": "成立以来年化收益",
+          "value": "4.28%"
+        },
+        {
+          "slot": 2,
+          "label": "起购金额",
+          "value": "1 元"
+        },
+        {
+          "slot": 3,
+          "label": "期限",
+          "value": "最短持有 180 天"
+        }
+      ],
+      "metricsJson": "[{\"slot\":1,\"label\":\"成立以来年化收益\",\"value\":\"4.28%\"},{\"slot\":2,\"label\":\"起购金额\",\"value\":\"1 元\"},{\"slot\":3,\"label\":\"期限\",\"value\":\"最短持有 180 天\"}]",
+      "salesRiskCode": "2",
+      "salesRiskLabel": "PR2-风险较低",
+      "pageNumber": 28,
+      "pageIndex": 7,
+      "queryKey": "all",
+      "queryMenuLabel": "11/ALL",
+      "areaCode": "0000",
+      "sourceUrl": "https://mybank.icbc.com.cn/icbc/newperbank/perbank3/finance/_financesub_out.jsp?Area_code=0000",
+      "retrievedAt": "2026-08-21T14:41:14.353Z"
+    },
+    {
+      "productCode": "PY26303A",
+      "productName": "浦银理财浦享增益之六个月最短持有期24号（工行专享）",
+      "issuerLabel": "代销浦银理财",
+      "salesStatus": "开放中",
+      "benchmarkLabel": "",
+      "benchmarkValue": "",
+      "primaryMetricLabel": "成立以来年化收益",
+      "primaryMetricValue": "4.24%",
+      "unitNav": "",
+      "per10kIncome": "",
+      "annualizedYield": "",
+      "minimumPurchase": "1 元",
+      "term": "最短持有 180 天",
+      "metrics": [
+        {
+          "slot": 1,
+          "label": "成立以来年化收益",
+          "value": "4.24%"
+        },
+        {
+          "slot": 2,
+          "label": "起购金额",
+          "value": "1 元"
+        },
+        {
+          "slot": 3,
+          "label": "期限",
+          "value": "最短持有 180 天"
+        }
+      ],
+      "metricsJson": "[{\"slot\":1,\"label\":\"成立以来年化收益\",\"value\":\"4.24%\"},{\"slot\":2,\"label\":\"起购金额\",\"value\":\"1 元\"},{\"slot\":3,\"label\":\"期限\",\"value\":\"最短持有 180 天\"}]",
+      "salesRiskCode": "2",
+      "salesRiskLabel": "PR2-风险较低",
+      "pageNumber": 28,
+      "pageIndex": 8,
+      "queryKey": "all",
+      "queryMenuLabel": "11/ALL",
+      "areaCode": "0000",
+      "sourceUrl": "https://mybank.icbc.com.cn/icbc/newperbank/perbank3/finance/_financesub_out.jsp?Area_code=0000",
+      "retrievedAt": "2026-08-21T14:41:14.353Z"
+    },
+    {
+      "productCode": "25ME032A",
+      "productName": "中邮理财灵活·鸿运最短持有30天32号理财产品",
+      "issuerLabel": "代销中邮理财",
+      "salesStatus": "开放中",
+      "benchmarkLabel": "",
+      "benchmarkValue": "",
+      "primaryMetricLabel": "近三月年化收益",
+      "primaryMetricValue": "4.20%",
+      "unitNav": "",
+      "per10kIncome": "",
+      "annualizedYield": "",
+      "minimumPurchase": "1 元",
+      "term": "最短持有 30 天",
+      "metrics": [
+        {
+          "slot": 1,
+          "label": "近三月年化收益",
+          "value": "4.20%"
+        },
+        {
+          "slot": 2,
+          "label": "起购金额",
+          "value": "1 元"
+        },
+        {
+          "slot": 3,
+          "label": "期限",
+          "value": "最短持有 30 天"
+        }
+      ],
+      "metricsJson": "[{\"slot\":1,\"label\":\"近三月年化收益\",\"value\":\"4.20%\"},{\"slot\":2,\"label\":\"起购金额\",\"value\":\"1 元\"},{\"slot\":3,\"label\":\"期限\",\"value\":\"最短持有 30 天\"}]",
+      "salesRiskCode": "2",
+      "salesRiskLabel": "PR2-风险较低",
+      "pageNumber": 28,
+      "pageIndex": 9,
+      "queryKey": "all",
+      "queryMenuLabel": "11/ALL",
+      "areaCode": "0000",
+      "sourceUrl": "https://mybank.icbc.com.cn/icbc/newperbank/perbank3/finance/_financesub_out.jsp?Area_code=0000",
+      "retrievedAt": "2026-08-21T14:41:14.353Z"
+    }
+  ]
+}

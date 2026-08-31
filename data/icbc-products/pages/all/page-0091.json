@@ -1,0 +1,436 @@
+{
+  "schemaVersion": "1.0",
+  "queryKey": "all",
+  "queryLabel": "全部产品",
+  "queryMenuLabel": "11/ALL",
+  "areaCode": "0000",
+  "pageNumber": 91,
+  "fetchedAt": "2026-08-21T14:43:17.995Z",
+  "totalPages": 138,
+  "totalRecords": 1375,
+  "sourceEntryUrl": "https://mybank.icbc.com.cn/icbc/newperbank/perbank3/finance/_financesub_out.jsp",
+  "sourceListUrl": "https://mybank.icbc.com.cn/servlet/ICBCBaseReqServletNoSession",
+  "productCount": 10,
+  "products": [
+    {
+      "productCode": "26GS5794",
+      "productName": "工银理财·核心优选私银尊享最短持有7天固收开放（26GS5794）",
+      "issuerLabel": "代销工银理财",
+      "salesStatus": "开放中",
+      "benchmarkLabel": "",
+      "benchmarkValue": "",
+      "primaryMetricLabel": "近三月年化收益",
+      "primaryMetricValue": "4.10%",
+      "unitNav": "",
+      "per10kIncome": "",
+      "annualizedYield": "",
+      "minimumPurchase": "20 万元",
+      "term": "最短持有 7 天",
+      "metrics": [
+        {
+          "slot": 1,
+          "label": "近三月年化收益",
+          "value": "4.10%"
+        },
+        {
+          "slot": 2,
+          "label": "起购金额",
+          "value": "20 万元"
+        },
+        {
+          "slot": 3,
+          "label": "期限",
+          "value": "最短持有 7 天"
+        }
+      ],
+      "metricsJson": "[{\"slot\":1,\"label\":\"近三月年化收益\",\"value\":\"4.10%\"},{\"slot\":2,\"label\":\"起购金额\",\"value\":\"20 万元\"},{\"slot\":3,\"label\":\"期限\",\"value\":\"最短持有 7 天\"}]",
+      "salesRiskCode": "2",
+      "salesRiskLabel": "PR2-风险较低",
+      "pageNumber": 91,
+      "pageIndex": 0,
+      "queryKey": "all",
+      "queryMenuLabel": "11/ALL",
+      "areaCode": "0000",
+      "sourceUrl": "https://mybank.icbc.com.cn/icbc/newperbank/perbank3/finance/_financesub_out.jsp?Area_code=0000",
+      "retrievedAt": "2026-08-21T14:43:17.995Z"
+    },
+    {
+      "productCode": "26GS5725",
+      "productName": "工银理财·核心优选私银尊享最短持有14天固收开放（26GS5725）",
+      "issuerLabel": "代销工银理财",
+      "salesStatus": "开放中",
+      "benchmarkLabel": "",
+      "benchmarkValue": "",
+      "primaryMetricLabel": "近三月年化收益",
+      "primaryMetricValue": "4.06%",
+      "unitNav": "",
+      "per10kIncome": "",
+      "annualizedYield": "",
+      "minimumPurchase": "20 万元",
+      "term": "最短持有 14 天",
+      "metrics": [
+        {
+          "slot": 1,
+          "label": "近三月年化收益",
+          "value": "4.06%"
+        },
+        {
+          "slot": 2,
+          "label": "起购金额",
+          "value": "20 万元"
+        },
+        {
+          "slot": 3,
+          "label": "期限",
+          "value": "最短持有 14 天"
+        }
+      ],
+      "metricsJson": "[{\"slot\":1,\"label\":\"近三月年化收益\",\"value\":\"4.06%\"},{\"slot\":2,\"label\":\"起购金额\",\"value\":\"20 万元\"},{\"slot\":3,\"label\":\"期限\",\"value\":\"最短持有 14 天\"}]",
+      "salesRiskCode": "2",
+      "salesRiskLabel": "PR2-风险较低",
+      "pageNumber": 91,
+      "pageIndex": 1,
+      "queryKey": "all",
+      "queryMenuLabel": "11/ALL",
+      "areaCode": "0000",
+      "sourceUrl": "https://mybank.icbc.com.cn/icbc/newperbank/perbank3/finance/_financesub_out.jsp?Area_code=0000",
+      "retrievedAt": "2026-08-21T14:43:17.995Z"
+    },
+    {
+      "productCode": "132092GS",
+      "productName": "招银理财招睿添利日开17号固定收益类理财计划（私银方舟）",
+      "issuerLabel": "代销招银理财",
+      "salesStatus": "开放中",
+      "benchmarkLabel": "",
+      "benchmarkValue": "",
+      "primaryMetricLabel": "成立以来年化收益",
+      "primaryMetricValue": "4.03%",
+      "unitNav": "",
+      "per10kIncome": "",
+      "annualizedYield": "",
+      "minimumPurchase": "20 万元",
+      "term": "最短持有 1 天",
+      "metrics": [
+        {
+          "slot": 1,
+          "label": "成立以来年化收益",
+          "value": "4.03%"
+        },
+        {
+          "slot": 2,
+          "label": "起购金额",
+          "value": "20 万元"
+        },
+        {
+          "slot": 3,
+          "label": "期限",
+          "value": "最短持有 1 天"
+        }
+      ],
+      "metricsJson": "[{\"slot\":1,\"label\":\"成立以来年化收益\",\"value\":\"4.03%\"},{\"slot\":2,\"label\":\"起购金额\",\"value\":\"20 万元\"},{\"slot\":3,\"label\":\"期限\",\"value\":\"最短持有 1 天\"}]",
+      "salesRiskCode": "2",
+      "salesRiskLabel": "PR2-风险较低",
+      "pageNumber": 91,
+      "pageIndex": 2,
+      "queryKey": "all",
+      "queryMenuLabel": "11/ALL",
+      "areaCode": "0000",
+      "sourceUrl": "https://mybank.icbc.com.cn/icbc/newperbank/perbank3/finance/_financesub_out.jsp?Area_code=0000",
+      "retrievedAt": "2026-08-21T14:43:17.995Z"
+    },
+    {
+      "productCode": "26G2655B",
+      "productName": "工银理财·鑫添益私银尊享最短持有7天固收开放(青山26G2655B)",
+      "issuerLabel": "代销工银理财",
+      "salesStatus": "开放中",
+      "benchmarkLabel": "",
+      "benchmarkValue": "",
+      "primaryMetricLabel": "成立以来年化收益",
+      "primaryMetricValue": "4.02%",
+      "unitNav": "",
+      "per10kIncome": "",
+      "annualizedYield": "",
+      "minimumPurchase": "20 万元",
+      "term": "最短持有 7 天",
+      "metrics": [
+        {
+          "slot": 1,
+          "label": "成立以来年化收益",
+          "value": "4.02%"
+        },
+        {
+          "slot": 2,
+          "label": "起购金额",
+          "value": "20 万元"
+        },
+        {
+          "slot": 3,
+          "label": "期限",
+          "value": "最短持有 7 天"
+        }
+      ],
+      "metricsJson": "[{\"slot\":1,\"label\":\"成立以来年化收益\",\"value\":\"4.02%\"},{\"slot\":2,\"label\":\"起购金额\",\"value\":\"20 万元\"},{\"slot\":3,\"label\":\"期限\",\"value\":\"最短持有 7 天\"}]",
+      "salesRiskCode": "2",
+      "salesRiskLabel": "PR2-风险较低",
+      "pageNumber": 91,
+      "pageIndex": 3,
+      "queryKey": "all",
+      "queryMenuLabel": "11/ALL",
+      "areaCode": "0000",
+      "sourceUrl": "https://mybank.icbc.com.cn/icbc/newperbank/perbank3/finance/_financesub_out.jsp?Area_code=0000",
+      "retrievedAt": "2026-08-21T14:43:17.995Z"
+    },
+    {
+      "productCode": "AF65948G",
+      "productName": "信银安盈象固收稳健日开108号（私银）",
+      "issuerLabel": "代销信银理财",
+      "salesStatus": "开放中",
+      "benchmarkLabel": "",
+      "benchmarkValue": "",
+      "primaryMetricLabel": "近一月年化收益",
+      "primaryMetricValue": "4.00%",
+      "unitNav": "",
+      "per10kIncome": "",
+      "annualizedYield": "",
+      "minimumPurchase": "20 万元",
+      "term": "最短持有 1 天",
+      "metrics": [
+        {
+          "slot": 1,
+          "label": "近一月年化收益",
+          "value": "4.00%"
+        },
+        {
+          "slot": 2,
+          "label": "起购金额",
+          "value": "20 万元"
+        },
+        {
+          "slot": 3,
+          "label": "期限",
+          "value": "最短持有 1 天"
+        }
+      ],
+      "metricsJson": "[{\"slot\":1,\"label\":\"近一月年化收益\",\"value\":\"4.00%\"},{\"slot\":2,\"label\":\"起购金额\",\"value\":\"20 万元\"},{\"slot\":3,\"label\":\"期限\",\"value\":\"最短持有 1 天\"}]",
+      "salesRiskCode": "2",
+      "salesRiskLabel": "PR2-风险较低",
+      "pageNumber": 91,
+      "pageIndex": 4,
+      "queryKey": "all",
+      "queryMenuLabel": "11/ALL",
+      "areaCode": "0000",
+      "sourceUrl": "https://mybank.icbc.com.cn/icbc/newperbank/perbank3/finance/_financesub_out.jsp?Area_code=0000",
+      "retrievedAt": "2026-08-21T14:43:17.995Z"
+    },
+    {
+      "productCode": "BE31009B",
+      "productName": "民生理财富竹固收天天盈9号理财产品（私银）",
+      "issuerLabel": "代销民生理财",
+      "salesStatus": "开放中",
+      "benchmarkLabel": "",
+      "benchmarkValue": "",
+      "primaryMetricLabel": "成立以来年化收益",
+      "primaryMetricValue": "3.96%",
+      "unitNav": "",
+      "per10kIncome": "",
+      "annualizedYield": "",
+      "minimumPurchase": "20 万元",
+      "term": "每天开放",
+      "metrics": [
+        {
+          "slot": 1,
+          "label": "成立以来年化收益",
+          "value": "3.96%"
+        },
+        {
+          "slot": 2,
+          "label": "起购金额",
+          "value": "20 万元"
+        },
+        {
+          "slot": 3,
+          "label": "期限",
+          "value": "每天开放"
+        }
+      ],
+      "metricsJson": "[{\"slot\":1,\"label\":\"成立以来年化收益\",\"value\":\"3.96%\"},{\"slot\":2,\"label\":\"起购金额\",\"value\":\"20 万元\"},{\"slot\":3,\"label\":\"期限\",\"value\":\"每天开放\"}]",
+      "salesRiskCode": "2",
+      "salesRiskLabel": "PR2-风险较低",
+      "pageNumber": 91,
+      "pageIndex": 5,
+      "queryKey": "all",
+      "queryMenuLabel": "11/ALL",
+      "areaCode": "0000",
+      "sourceUrl": "https://mybank.icbc.com.cn/icbc/newperbank/perbank3/finance/_financesub_out.jsp?Area_code=0000",
+      "retrievedAt": "2026-08-21T14:43:17.995Z"
+    },
+    {
+      "productCode": "AF50232G",
+      "productName": "信银安盈象固收稳健六个月持有期92号（私银）",
+      "issuerLabel": "代销信银理财",
+      "salesStatus": "开放中",
+      "benchmarkLabel": "",
+      "benchmarkValue": "",
+      "primaryMetricLabel": "近一年年化收益",
+      "primaryMetricValue": "3.83%",
+      "unitNav": "",
+      "per10kIncome": "",
+      "annualizedYield": "",
+      "minimumPurchase": "20 万元",
+      "term": "最短持有 180 天",
+      "metrics": [
+        {
+          "slot": 1,
+          "label": "近一年年化收益",
+          "value": "3.83%"
+        },
+        {
+          "slot": 2,
+          "label": "起购金额",
+          "value": "20 万元"
+        },
+        {
+          "slot": 3,
+          "label": "期限",
+          "value": "最短持有 180 天"
+        }
+      ],
+      "metricsJson": "[{\"slot\":1,\"label\":\"近一年年化收益\",\"value\":\"3.83%\"},{\"slot\":2,\"label\":\"起购金额\",\"value\":\"20 万元\"},{\"slot\":3,\"label\":\"期限\",\"value\":\"最短持有 180 天\"}]",
+      "salesRiskCode": "2",
+      "salesRiskLabel": "PR2-风险较低",
+      "pageNumber": 91,
+      "pageIndex": 6,
+      "queryKey": "all",
+      "queryMenuLabel": "11/ALL",
+      "areaCode": "0000",
+      "sourceUrl": "https://mybank.icbc.com.cn/icbc/newperbank/perbank3/finance/_financesub_out.jsp?Area_code=0000",
+      "retrievedAt": "2026-08-21T14:43:17.995Z"
+    },
+    {
+      "productCode": "120034GS",
+      "productName": "招银理财招睿添金日开4号固定收益类理财计划（私银）",
+      "issuerLabel": "代销招银理财",
+      "salesStatus": "开放中",
+      "benchmarkLabel": "",
+      "benchmarkValue": "",
+      "primaryMetricLabel": "成立以来年化收益",
+      "primaryMetricValue": "3.80%",
+      "unitNav": "",
+      "per10kIncome": "",
+      "annualizedYield": "",
+      "minimumPurchase": "20 万元",
+      "term": "最短持有 1 天",
+      "metrics": [
+        {
+          "slot": 1,
+          "label": "成立以来年化收益",
+          "value": "3.80%"
+        },
+        {
+          "slot": 2,
+          "label": "起购金额",
+          "value": "20 万元"
+        },
+        {
+          "slot": 3,
+          "label": "期限",
+          "value": "最短持有 1 天"
+        }
+      ],
+      "metricsJson": "[{\"slot\":1,\"label\":\"成立以来年化收益\",\"value\":\"3.80%\"},{\"slot\":2,\"label\":\"起购金额\",\"value\":\"20 万元\"},{\"slot\":3,\"label\":\"期限\",\"value\":\"最短持有 1 天\"}]",
+      "salesRiskCode": "2",
+      "salesRiskLabel": "PR2-风险较低",
+      "pageNumber": 91,
+      "pageIndex": 7,
+      "queryKey": "all",
+      "queryMenuLabel": "11/ALL",
+      "areaCode": "0000",
+      "sourceUrl": "https://mybank.icbc.com.cn/icbc/newperbank/perbank3/finance/_financesub_out.jsp?Area_code=0000",
+      "retrievedAt": "2026-08-21T14:43:17.995Z"
+    },
+    {
+      "productCode": "AF50334G",
+      "productName": "信银安盈象固收稳利日开188号（私银）",
+      "issuerLabel": "代销信银理财",
+      "salesStatus": "开放中",
+      "benchmarkLabel": "",
+      "benchmarkValue": "",
+      "primaryMetricLabel": "成立以来年化收益",
+      "primaryMetricValue": "3.77%",
+      "unitNav": "",
+      "per10kIncome": "",
+      "annualizedYield": "",
+      "minimumPurchase": "20 万元",
+      "term": "每天开放",
+      "metrics": [
+        {
+          "slot": 1,
+          "label": "成立以来年化收益",
+          "value": "3.77%"
+        },
+        {
+          "slot": 2,
+          "label": "起购金额",
+          "value": "20 万元"
+        },
+        {
+          "slot": 3,
+          "label": "期限",
+          "value": "每天开放"
+        }
+      ],
+      "metricsJson": "[{\"slot\":1,\"label\":\"成立以来年化收益\",\"value\":\"3.77%\"},{\"slot\":2,\"label\":\"起购金额\",\"value\":\"20 万元\"},{\"slot\":3,\"label\":\"期限\",\"value\":\"每天开放\"}]",
+      "salesRiskCode": "2",
+      "salesRiskLabel": "PR2-风险较低",
+      "pageNumber": 91,
+      "pageIndex": 8,
+      "queryKey": "all",
+      "queryMenuLabel": "11/ALL",
+      "areaCode": "0000",
+      "sourceUrl": "https://mybank.icbc.com.cn/icbc/newperbank/perbank3/finance/_financesub_out.jsp?Area_code=0000",
+      "retrievedAt": "2026-08-21T14:43:17.995Z"
+    },
+    {
+      "productCode": "WFZQ1M2G",
+      "productName": "中银理财-稳富固收增强30天持有期私银尊享02",
+      "issuerLabel": "代销中银理财",
+      "salesStatus": "开放中",
+      "benchmarkLabel": "",
+      "benchmarkValue": "",
+      "primaryMetricLabel": "近一月年化收益",
+      "primaryMetricValue": "3.72%",
+      "unitNav": "",
+      "per10kIncome": "",
+      "annualizedYield": "",
+      "minimumPurchase": "20 万元",
+      "term": "最短持有 30 天",
+      "metrics": [
+        {
+          "slot": 1,
+          "label": "近一月年化收益",
+          "value": "3.72%"
+        },
+        {
+          "slot": 2,
+          "label": "起购金额",
+          "value": "20 万元"
+        },
+        {
+          "slot": 3,
+          "label": "期限",
+          "value": "最短持有 30 天"
+        }
+      ],
+      "metricsJson": "[{\"slot\":1,\"label\":\"近一月年化收益\",\"value\":\"3.72%\"},{\"slot\":2,\"label\":\"起购金额\",\"value\":\"20 万元\"},{\"slot\":3,\"label\":\"期限\",\"value\":\"最短持有 30 天\"}]",
+      "salesRiskCode": "2",
+      "salesRiskLabel": "PR2-风险较低",
+      "pageNumber": 91,
+      "pageIndex": 9,
+      "queryKey": "all",
+      "queryMenuLabel": "11/ALL",
+      "areaCode": "0000",
+      "sourceUrl": "https://mybank.icbc.com.cn/icbc/newperbank/perbank3/finance/_financesub_out.jsp?Area_code=0000",
+      "retrievedAt": "2026-08-21T14:43:17.995Z"
+    }
+  ]
+}

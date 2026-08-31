@@ -1,0 +1,11 @@
+{
+  "queryKey": "all",
+  "checkedAt": "2026-08-21T14:51:45.338Z",
+  "expectedPages": 138,
+  "actualPages": 138,
+  "parsedRecordCount": 1375,
+  "uniqueProductCount": 1375,
+  "errors": [],
+  "warnings": [],
+  "valid": true
+}

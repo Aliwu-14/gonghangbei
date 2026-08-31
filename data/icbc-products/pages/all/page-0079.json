@@ -1,0 +1,486 @@
+{
+  "schemaVersion": "1.0",
+  "queryKey": "all",
+  "queryLabel": "全部产品",
+  "queryMenuLabel": "11/ALL",
+  "areaCode": "0000",
+  "pageNumber": 79,
+  "fetchedAt": "2026-08-21T14:42:55.723Z",
+  "totalPages": 138,
+  "totalRecords": 1375,
+  "sourceEntryUrl": "https://mybank.icbc.com.cn/icbc/newperbank/perbank3/finance/_financesub_out.jsp",
+  "sourceListUrl": "https://mybank.icbc.com.cn/servlet/ICBCBaseReqServletNoSession",
+  "productCount": 10,
+  "products": [
+    {
+      "productCode": "BF19104B",
+      "productName": "民生理财天天增利现金管理104号理财产品（私银）",
+      "issuerLabel": "代销民生理财",
+      "salesStatus": "开放中",
+      "benchmarkLabel": "",
+      "benchmarkValue": "",
+      "primaryMetricLabel": "每万份收益（元）",
+      "primaryMetricValue": "0.2587",
+      "unitNav": "",
+      "per10kIncome": "0.2587",
+      "annualizedYield": "0.9572%",
+      "minimumPurchase": "20 万元",
+      "term": "无固定期限",
+      "metrics": [
+        {
+          "slot": 1,
+          "label": "每万份收益（元）",
+          "value": "0.2587"
+        },
+        {
+          "slot": 2,
+          "label": "起购金额",
+          "value": "20 万元"
+        },
+        {
+          "slot": 3,
+          "label": "期限",
+          "value": "无固定期限"
+        },
+        {
+          "slot": 4,
+          "label": "七日年化收益率",
+          "value": "0.9572%"
+        }
+      ],
+      "metricsJson": "[{\"slot\":1,\"label\":\"每万份收益（元）\",\"value\":\"0.2587\"},{\"slot\":2,\"label\":\"起购金额\",\"value\":\"20 万元\"},{\"slot\":3,\"label\":\"期限\",\"value\":\"无固定期限\"},{\"slot\":4,\"label\":\"七日年化收益率\",\"value\":\"0.9572%\"}]",
+      "salesRiskCode": "1",
+      "salesRiskLabel": "PR1-风险低",
+      "pageNumber": 79,
+      "pageIndex": 0,
+      "queryKey": "all",
+      "queryMenuLabel": "11/ALL",
+      "areaCode": "0000",
+      "sourceUrl": "https://mybank.icbc.com.cn/icbc/newperbank/perbank3/finance/_financesub_out.jsp?Area_code=0000",
+      "retrievedAt": "2026-08-21T14:42:55.723Z"
+    },
+    {
+      "productCode": "BF19105B",
+      "productName": "民生理财天天增利现金管理105号理财产品（私银）",
+      "issuerLabel": "代销民生理财",
+      "salesStatus": "开放中",
+      "benchmarkLabel": "",
+      "benchmarkValue": "",
+      "primaryMetricLabel": "每万份收益（元）",
+      "primaryMetricValue": "0.2599",
+      "unitNav": "",
+      "per10kIncome": "0.2599",
+      "annualizedYield": "0.9540%",
+      "minimumPurchase": "20 万元",
+      "term": "无固定期限",
+      "metrics": [
+        {
+          "slot": 1,
+          "label": "每万份收益（元）",
+          "value": "0.2599"
+        },
+        {
+          "slot": 2,
+          "label": "起购金额",
+          "value": "20 万元"
+        },
+        {
+          "slot": 3,
+          "label": "期限",
+          "value": "无固定期限"
+        },
+        {
+          "slot": 4,
+          "label": "七日年化收益率",
+          "value": "0.9540%"
+        }
+      ],
+      "metricsJson": "[{\"slot\":1,\"label\":\"每万份收益（元）\",\"value\":\"0.2599\"},{\"slot\":2,\"label\":\"起购金额\",\"value\":\"20 万元\"},{\"slot\":3,\"label\":\"期限\",\"value\":\"无固定期限\"},{\"slot\":4,\"label\":\"七日年化收益率\",\"value\":\"0.9540%\"}]",
+      "salesRiskCode": "1",
+      "salesRiskLabel": "PR1-风险低",
+      "pageNumber": 79,
+      "pageIndex": 1,
+      "queryKey": "all",
+      "queryMenuLabel": "11/ALL",
+      "areaCode": "0000",
+      "sourceUrl": "https://mybank.icbc.com.cn/icbc/newperbank/perbank3/finance/_financesub_out.jsp?Area_code=0000",
+      "retrievedAt": "2026-08-21T14:42:55.723Z"
+    },
+    {
+      "productCode": "BF19101B",
+      "productName": "民生理财天天增利现金管理101号理财产品（私银）",
+      "issuerLabel": "代销民生理财",
+      "salesStatus": "开放中",
+      "benchmarkLabel": "",
+      "benchmarkValue": "",
+      "primaryMetricLabel": "每万份收益（元）",
+      "primaryMetricValue": "0.2731",
+      "unitNav": "",
+      "per10kIncome": "0.2731",
+      "annualizedYield": "0.9528%",
+      "minimumPurchase": "20 万元",
+      "term": "无固定期限",
+      "metrics": [
+        {
+          "slot": 1,
+          "label": "每万份收益（元）",
+          "value": "0.2731"
+        },
+        {
+          "slot": 2,
+          "label": "起购金额",
+          "value": "20 万元"
+        },
+        {
+          "slot": 3,
+          "label": "期限",
+          "value": "无固定期限"
+        },
+        {
+          "slot": 4,
+          "label": "七日年化收益率",
+          "value": "0.9528%"
+        }
+      ],
+      "metricsJson": "[{\"slot\":1,\"label\":\"每万份收益（元）\",\"value\":\"0.2731\"},{\"slot\":2,\"label\":\"起购金额\",\"value\":\"20 万元\"},{\"slot\":3,\"label\":\"期限\",\"value\":\"无固定期限\"},{\"slot\":4,\"label\":\"七日年化收益率\",\"value\":\"0.9528%\"}]",
+      "salesRiskCode": "1",
+      "salesRiskLabel": "PR1-风险低",
+      "pageNumber": 79,
+      "pageIndex": 2,
+      "queryKey": "all",
+      "queryMenuLabel": "11/ALL",
+      "areaCode": "0000",
+      "sourceUrl": "https://mybank.icbc.com.cn/icbc/newperbank/perbank3/finance/_financesub_out.jsp?Area_code=0000",
+      "retrievedAt": "2026-08-21T14:42:55.723Z"
+    },
+    {
+      "productCode": "EW1684G",
+      "productName": "光大理财阳光碧乐活55号G（私银）",
+      "issuerLabel": "代销光大理财",
+      "salesStatus": "开放中",
+      "benchmarkLabel": "",
+      "benchmarkValue": "",
+      "primaryMetricLabel": "每万份收益（元）",
+      "primaryMetricValue": "0.2591",
+      "unitNav": "",
+      "per10kIncome": "0.2591",
+      "annualizedYield": "0.9519%",
+      "minimumPurchase": "20 万元",
+      "term": "无固定期限",
+      "metrics": [
+        {
+          "slot": 1,
+          "label": "每万份收益（元）",
+          "value": "0.2591"
+        },
+        {
+          "slot": 2,
+          "label": "起购金额",
+          "value": "20 万元"
+        },
+        {
+          "slot": 3,
+          "label": "期限",
+          "value": "无固定期限"
+        },
+        {
+          "slot": 4,
+          "label": "七日年化收益率",
+          "value": "0.9519%"
+        }
+      ],
+      "metricsJson": "[{\"slot\":1,\"label\":\"每万份收益（元）\",\"value\":\"0.2591\"},{\"slot\":2,\"label\":\"起购金额\",\"value\":\"20 万元\"},{\"slot\":3,\"label\":\"期限\",\"value\":\"无固定期限\"},{\"slot\":4,\"label\":\"七日年化收益率\",\"value\":\"0.9519%\"}]",
+      "salesRiskCode": "1",
+      "salesRiskLabel": "PR1-风险低",
+      "pageNumber": 79,
+      "pageIndex": 3,
+      "queryKey": "all",
+      "queryMenuLabel": "11/ALL",
+      "areaCode": "0000",
+      "sourceUrl": "https://mybank.icbc.com.cn/icbc/newperbank/perbank3/finance/_financesub_out.jsp?Area_code=0000",
+      "retrievedAt": "2026-08-21T14:42:55.723Z"
+    },
+    {
+      "productCode": "TC3X141S",
+      "productName": "平安理财天天成长3号41期（私银）",
+      "issuerLabel": "代销平安理财",
+      "salesStatus": "开放中",
+      "benchmarkLabel": "",
+      "benchmarkValue": "",
+      "primaryMetricLabel": "每万份收益（元）",
+      "primaryMetricValue": "0.256",
+      "unitNav": "",
+      "per10kIncome": "0.256",
+      "annualizedYield": "0.9502%",
+      "minimumPurchase": "20 万元",
+      "term": "无固定期限",
+      "metrics": [
+        {
+          "slot": 1,
+          "label": "每万份收益（元）",
+          "value": "0.256"
+        },
+        {
+          "slot": 2,
+          "label": "起购金额",
+          "value": "20 万元"
+        },
+        {
+          "slot": 3,
+          "label": "期限",
+          "value": "无固定期限"
+        },
+        {
+          "slot": 4,
+          "label": "七日年化收益率",
+          "value": "0.9502%"
+        }
+      ],
+      "metricsJson": "[{\"slot\":1,\"label\":\"每万份收益（元）\",\"value\":\"0.256\"},{\"slot\":2,\"label\":\"起购金额\",\"value\":\"20 万元\"},{\"slot\":3,\"label\":\"期限\",\"value\":\"无固定期限\"},{\"slot\":4,\"label\":\"七日年化收益率\",\"value\":\"0.9502%\"}]",
+      "salesRiskCode": "1",
+      "salesRiskLabel": "PR1-风险低",
+      "pageNumber": 79,
+      "pageIndex": 4,
+      "queryKey": "all",
+      "queryMenuLabel": "11/ALL",
+      "areaCode": "0000",
+      "sourceUrl": "https://mybank.icbc.com.cn/icbc/newperbank/perbank3/finance/_financesub_out.jsp?Area_code=0000",
+      "retrievedAt": "2026-08-21T14:42:55.723Z"
+    },
+    {
+      "productCode": "LXTT02G",
+      "productName": "中银理财-乐享天天2号（私银）",
+      "issuerLabel": "代销中银理财",
+      "salesStatus": "开放中",
+      "benchmarkLabel": "",
+      "benchmarkValue": "",
+      "primaryMetricLabel": "每万份收益（元）",
+      "primaryMetricValue": "0.25847",
+      "unitNav": "",
+      "per10kIncome": "0.25847",
+      "annualizedYield": "0.9464%",
+      "minimumPurchase": "20 万元",
+      "term": "无固定期限",
+      "metrics": [
+        {
+          "slot": 1,
+          "label": "每万份收益（元）",
+          "value": "0.25847"
+        },
+        {
+          "slot": 2,
+          "label": "起购金额",
+          "value": "20 万元"
+        },
+        {
+          "slot": 3,
+          "label": "期限",
+          "value": "无固定期限"
+        },
+        {
+          "slot": 4,
+          "label": "七日年化收益率",
+          "value": "0.9464%"
+        }
+      ],
+      "metricsJson": "[{\"slot\":1,\"label\":\"每万份收益（元）\",\"value\":\"0.25847\"},{\"slot\":2,\"label\":\"起购金额\",\"value\":\"20 万元\"},{\"slot\":3,\"label\":\"期限\",\"value\":\"无固定期限\"},{\"slot\":4,\"label\":\"七日年化收益率\",\"value\":\"0.9464%\"}]",
+      "salesRiskCode": "1",
+      "salesRiskLabel": "PR1-风险低",
+      "pageNumber": 79,
+      "pageIndex": 5,
+      "queryKey": "all",
+      "queryMenuLabel": "11/ALL",
+      "areaCode": "0000",
+      "sourceUrl": "https://mybank.icbc.com.cn/icbc/newperbank/perbank3/finance/_financesub_out.jsp?Area_code=0000",
+      "retrievedAt": "2026-08-21T14:42:55.723Z"
+    },
+    {
+      "productCode": "EW4050G",
+      "productName": "光大理财阳光碧乐活174号G（私银）",
+      "issuerLabel": "代销光大理财",
+      "salesStatus": "开放中",
+      "benchmarkLabel": "",
+      "benchmarkValue": "",
+      "primaryMetricLabel": "每万份收益（元）",
+      "primaryMetricValue": "0.2582",
+      "unitNav": "",
+      "per10kIncome": "0.2582",
+      "annualizedYield": "0.9443%",
+      "minimumPurchase": "20 万元",
+      "term": "无固定期限",
+      "metrics": [
+        {
+          "slot": 1,
+          "label": "每万份收益（元）",
+          "value": "0.2582"
+        },
+        {
+          "slot": 2,
+          "label": "起购金额",
+          "value": "20 万元"
+        },
+        {
+          "slot": 3,
+          "label": "期限",
+          "value": "无固定期限"
+        },
+        {
+          "slot": 4,
+          "label": "七日年化收益率",
+          "value": "0.9443%"
+        }
+      ],
+      "metricsJson": "[{\"slot\":1,\"label\":\"每万份收益（元）\",\"value\":\"0.2582\"},{\"slot\":2,\"label\":\"起购金额\",\"value\":\"20 万元\"},{\"slot\":3,\"label\":\"期限\",\"value\":\"无固定期限\"},{\"slot\":4,\"label\":\"七日年化收益率\",\"value\":\"0.9443%\"}]",
+      "salesRiskCode": "1",
+      "salesRiskLabel": "PR1-风险低",
+      "pageNumber": 79,
+      "pageIndex": 6,
+      "queryKey": "all",
+      "queryMenuLabel": "11/ALL",
+      "areaCode": "0000",
+      "sourceUrl": "https://mybank.icbc.com.cn/icbc/newperbank/perbank3/finance/_financesub_out.jsp?Area_code=0000",
+      "retrievedAt": "2026-08-21T14:42:55.723Z"
+    },
+    {
+      "productCode": "23GS2069",
+      "productName": "工银理财·添利宝私银尊享现金管理类开放产品5号（23GS2069）",
+      "issuerLabel": "代销工银理财",
+      "salesStatus": "开放中",
+      "benchmarkLabel": "",
+      "benchmarkValue": "",
+      "primaryMetricLabel": "每万份收益（元）",
+      "primaryMetricValue": "0.2573",
+      "unitNav": "",
+      "per10kIncome": "0.2573",
+      "annualizedYield": "0.9439%",
+      "minimumPurchase": "5 万元",
+      "term": "无固定期限",
+      "metrics": [
+        {
+          "slot": 1,
+          "label": "每万份收益（元）",
+          "value": "0.2573"
+        },
+        {
+          "slot": 2,
+          "label": "起购金额",
+          "value": "5 万元"
+        },
+        {
+          "slot": 3,
+          "label": "期限",
+          "value": "无固定期限"
+        },
+        {
+          "slot": 4,
+          "label": "七日年化收益率",
+          "value": "0.9439%"
+        }
+      ],
+      "metricsJson": "[{\"slot\":1,\"label\":\"每万份收益（元）\",\"value\":\"0.2573\"},{\"slot\":2,\"label\":\"起购金额\",\"value\":\"5 万元\"},{\"slot\":3,\"label\":\"期限\",\"value\":\"无固定期限\"},{\"slot\":4,\"label\":\"七日年化收益率\",\"value\":\"0.9439%\"}]",
+      "salesRiskCode": "1",
+      "salesRiskLabel": "PR1-风险低",
+      "pageNumber": 79,
+      "pageIndex": 7,
+      "queryKey": "all",
+      "queryMenuLabel": "11/ALL",
+      "areaCode": "0000",
+      "sourceUrl": "https://mybank.icbc.com.cn/icbc/newperbank/perbank3/finance/_financesub_out.jsp?Area_code=0000",
+      "retrievedAt": "2026-08-21T14:42:55.723Z"
+    },
+    {
+      "productCode": "BF19137B",
+      "productName": "民生理财天天增利现金管理137号理财产品（私银）",
+      "issuerLabel": "代销民生理财",
+      "salesStatus": "开放中",
+      "benchmarkLabel": "",
+      "benchmarkValue": "",
+      "primaryMetricLabel": "每万份收益（元）",
+      "primaryMetricValue": "0.2565",
+      "unitNav": "",
+      "per10kIncome": "0.2565",
+      "annualizedYield": "0.9412%",
+      "minimumPurchase": "20 万元",
+      "term": "无固定期限",
+      "metrics": [
+        {
+          "slot": 1,
+          "label": "每万份收益（元）",
+          "value": "0.2565"
+        },
+        {
+          "slot": 2,
+          "label": "起购金额",
+          "value": "20 万元"
+        },
+        {
+          "slot": 3,
+          "label": "期限",
+          "value": "无固定期限"
+        },
+        {
+          "slot": 4,
+          "label": "七日年化收益率",
+          "value": "0.9412%"
+        }
+      ],
+      "metricsJson": "[{\"slot\":1,\"label\":\"每万份收益（元）\",\"value\":\"0.2565\"},{\"slot\":2,\"label\":\"起购金额\",\"value\":\"20 万元\"},{\"slot\":3,\"label\":\"期限\",\"value\":\"无固定期限\"},{\"slot\":4,\"label\":\"七日年化收益率\",\"value\":\"0.9412%\"}]",
+      "salesRiskCode": "1",
+      "salesRiskLabel": "PR1-风险低",
+      "pageNumber": 79,
+      "pageIndex": 8,
+      "queryKey": "all",
+      "queryMenuLabel": "11/ALL",
+      "areaCode": "0000",
+      "sourceUrl": "https://mybank.icbc.com.cn/icbc/newperbank/perbank3/finance/_financesub_out.jsp?Area_code=0000",
+      "retrievedAt": "2026-08-21T14:42:55.723Z"
+    },
+    {
+      "productCode": "9TTL978G",
+      "productName": "兴银添利天天利78号(私银)",
+      "issuerLabel": "代销兴银理财",
+      "salesStatus": "开放中",
+      "benchmarkLabel": "",
+      "benchmarkValue": "",
+      "primaryMetricLabel": "每万份收益（元）",
+      "primaryMetricValue": "0.2606",
+      "unitNav": "",
+      "per10kIncome": "0.2606",
+      "annualizedYield": "0.9409%",
+      "minimumPurchase": "20 万元",
+      "term": "无固定期限",
+      "metrics": [
+        {
+          "slot": 1,
+          "label": "每万份收益（元）",
+          "value": "0.2606"
+        },
+        {
+          "slot": 2,
+          "label": "起购金额",
+          "value": "20 万元"
+        },
+        {
+          "slot": 3,
+          "label": "期限",
+          "value": "无固定期限"
+        },
+        {
+          "slot": 4,
+          "label": "七日年化收益率",
+          "value": "0.9409%"
+        }
+      ],
+      "metricsJson": "[{\"slot\":1,\"label\":\"每万份收益（元）\",\"value\":\"0.2606\"},{\"slot\":2,\"label\":\"起购金额\",\"value\":\"20 万元\"},{\"slot\":3,\"label\":\"期限\",\"value\":\"无固定期限\"},{\"slot\":4,\"label\":\"七日年化收益率\",\"value\":\"0.9409%\"}]",
+      "salesRiskCode": "1",
+      "salesRiskLabel": "PR1-风险低",
+      "pageNumber": 79,
+      "pageIndex": 9,
+      "queryKey": "all",
+      "queryMenuLabel": "11/ALL",
+      "areaCode": "0000",
+      "sourceUrl": "https://mybank.icbc.com.cn/icbc/newperbank/perbank3/finance/_financesub_out.jsp?Area_code=0000",
+      "retrievedAt": "2026-08-21T14:42:55.723Z"
+    }
+  ]
+}

@@ -1,0 +1,441 @@
+{
+  "schemaVersion": "1.0",
+  "queryKey": "all",
+  "queryLabel": "全部产品",
+  "queryMenuLabel": "11/ALL",
+  "areaCode": "0000",
+  "pageNumber": 71,
+  "fetchedAt": "2026-08-21T14:42:38.776Z",
+  "totalPages": 138,
+  "totalRecords": 1375,
+  "sourceEntryUrl": "https://mybank.icbc.com.cn/icbc/newperbank/perbank3/finance/_financesub_out.jsp",
+  "sourceListUrl": "https://mybank.icbc.com.cn/servlet/ICBCBaseReqServletNoSession",
+  "productCount": 10,
+  "products": [
+    {
+      "productCode": "26G5671B",
+      "productName": "工银理财·天天鑫稳益私银尊享固收开放理财产品(26G5671B)",
+      "issuerLabel": "代销工银理财",
+      "salesStatus": "募集中",
+      "benchmarkLabel": "业绩比较基准",
+      "benchmarkValue": "1.00%-1.20%",
+      "primaryMetricLabel": "业绩比较基准",
+      "primaryMetricValue": "1.00%-1.20%",
+      "unitNav": "",
+      "per10kIncome": "",
+      "annualizedYield": "",
+      "minimumPurchase": "20 万元",
+      "term": "无固定期限",
+      "metrics": [
+        {
+          "slot": 1,
+          "label": "业绩比较基准",
+          "value": "1.00%-1.20%"
+        },
+        {
+          "slot": 2,
+          "label": "起购金额",
+          "value": "20 万元"
+        },
+        {
+          "slot": 3,
+          "label": "期限",
+          "value": "无固定期限"
+        }
+      ],
+      "metricsJson": "[{\"slot\":1,\"label\":\"业绩比较基准\",\"value\":\"1.00%-1.20%\"},{\"slot\":2,\"label\":\"起购金额\",\"value\":\"20 万元\"},{\"slot\":3,\"label\":\"期限\",\"value\":\"无固定期限\"}]",
+      "salesRiskCode": "1",
+      "salesRiskLabel": "PR1-风险低",
+      "pageNumber": 71,
+      "pageIndex": 0,
+      "queryKey": "all",
+      "queryMenuLabel": "11/ALL",
+      "areaCode": "0000",
+      "sourceUrl": "https://mybank.icbc.com.cn/icbc/newperbank/perbank3/finance/_financesub_out.jsp?Area_code=0000",
+      "retrievedAt": "2026-08-21T14:42:38.776Z"
+    },
+    {
+      "productCode": "26G5672B",
+      "productName": "工银理财·天天鑫稳益私银尊享固收开放理财产品(26G5672B)",
+      "issuerLabel": "代销工银理财",
+      "salesStatus": "募集中",
+      "benchmarkLabel": "业绩比较基准",
+      "benchmarkValue": "详见产品说明书",
+      "primaryMetricLabel": "业绩比较基准",
+      "primaryMetricValue": "详见产品说明书",
+      "unitNav": "",
+      "per10kIncome": "",
+      "annualizedYield": "",
+      "minimumPurchase": "20 万元",
+      "term": "无固定期限",
+      "metrics": [
+        {
+          "slot": 1,
+          "label": "业绩比较基准",
+          "value": "详见产品说明书"
+        },
+        {
+          "slot": 2,
+          "label": "起购金额",
+          "value": "20 万元"
+        },
+        {
+          "slot": 3,
+          "label": "期限",
+          "value": "无固定期限"
+        }
+      ],
+      "metricsJson": "[{\"slot\":1,\"label\":\"业绩比较基准\",\"value\":\"详见产品说明书\"},{\"slot\":2,\"label\":\"起购金额\",\"value\":\"20 万元\"},{\"slot\":3,\"label\":\"期限\",\"value\":\"无固定期限\"}]",
+      "salesRiskCode": "1",
+      "salesRiskLabel": "PR1-风险低",
+      "pageNumber": 71,
+      "pageIndex": 1,
+      "queryKey": "all",
+      "queryMenuLabel": "11/ALL",
+      "areaCode": "0000",
+      "sourceUrl": "https://mybank.icbc.com.cn/icbc/newperbank/perbank3/finance/_financesub_out.jsp?Area_code=0000",
+      "retrievedAt": "2026-08-21T14:42:38.776Z"
+    },
+    {
+      "productCode": "26G8785B",
+      "productName": "工银理财·智悦私银尊享目标止盈策略固收类封闭(26G8785B)",
+      "issuerLabel": "代销工银理财",
+      "salesStatus": "募集中",
+      "benchmarkLabel": "业绩比较基准",
+      "benchmarkValue": "2.40%-3.40%",
+      "primaryMetricLabel": "业绩比较基准",
+      "primaryMetricValue": "2.40%-3.40%",
+      "unitNav": "",
+      "per10kIncome": "",
+      "annualizedYield": "",
+      "minimumPurchase": "20 万元",
+      "term": "366 天",
+      "metrics": [
+        {
+          "slot": 1,
+          "label": "业绩比较基准",
+          "value": "2.40%-3.40%"
+        },
+        {
+          "slot": 2,
+          "label": "起购金额",
+          "value": "20 万元"
+        },
+        {
+          "slot": 3,
+          "label": "期限",
+          "value": "366 天"
+        }
+      ],
+      "metricsJson": "[{\"slot\":1,\"label\":\"业绩比较基准\",\"value\":\"2.40%-3.40%\"},{\"slot\":2,\"label\":\"起购金额\",\"value\":\"20 万元\"},{\"slot\":3,\"label\":\"期限\",\"value\":\"366 天\"}]",
+      "salesRiskCode": "3",
+      "salesRiskLabel": "PR3-风险适中",
+      "pageNumber": 71,
+      "pageIndex": 2,
+      "queryKey": "all",
+      "queryMenuLabel": "11/ALL",
+      "areaCode": "0000",
+      "sourceUrl": "https://mybank.icbc.com.cn/icbc/newperbank/perbank3/finance/_financesub_out.jsp?Area_code=0000",
+      "retrievedAt": "2026-08-21T14:42:38.776Z"
+    },
+    {
+      "productCode": "26H6075B",
+      "productName": "工银理财·鑫悦私银尊享打新策略优选混合类封闭(26H6075B)",
+      "issuerLabel": "代销工银理财",
+      "salesStatus": "募集中",
+      "benchmarkLabel": "业绩比较基准",
+      "benchmarkValue": "2.20%-2.30%",
+      "primaryMetricLabel": "业绩比较基准",
+      "primaryMetricValue": "2.20%-2.30%",
+      "unitNav": "",
+      "per10kIncome": "",
+      "annualizedYield": "",
+      "minimumPurchase": "20 万元",
+      "term": "302 天",
+      "metrics": [
+        {
+          "slot": 1,
+          "label": "业绩比较基准",
+          "value": "2.20%-2.30%"
+        },
+        {
+          "slot": 2,
+          "label": "起购金额",
+          "value": "20 万元"
+        },
+        {
+          "slot": 3,
+          "label": "期限",
+          "value": "302 天"
+        }
+      ],
+      "metricsJson": "[{\"slot\":1,\"label\":\"业绩比较基准\",\"value\":\"2.20%-2.30%\"},{\"slot\":2,\"label\":\"起购金额\",\"value\":\"20 万元\"},{\"slot\":3,\"label\":\"期限\",\"value\":\"302 天\"}]",
+      "salesRiskCode": "2",
+      "salesRiskLabel": "PR2-风险较低",
+      "pageNumber": 71,
+      "pageIndex": 3,
+      "queryKey": "all",
+      "queryMenuLabel": "11/ALL",
+      "areaCode": "0000",
+      "sourceUrl": "https://mybank.icbc.com.cn/icbc/newperbank/perbank3/finance/_financesub_out.jsp?Area_code=0000",
+      "retrievedAt": "2026-08-21T14:42:38.776Z"
+    },
+    {
+      "productCode": "9A26609G",
+      "productName": "兴银稳利安盈封闭式2026年609期（私银）",
+      "issuerLabel": "代销兴银理财",
+      "salesStatus": "募集中",
+      "benchmarkLabel": "业绩比较基准",
+      "benchmarkValue": "1.75%-2.25%",
+      "primaryMetricLabel": "业绩比较基准",
+      "primaryMetricValue": "1.75%-2.25%",
+      "unitNav": "",
+      "per10kIncome": "",
+      "annualizedYield": "",
+      "minimumPurchase": "20 万元",
+      "term": "132 天",
+      "metrics": [
+        {
+          "slot": 1,
+          "label": "业绩比较基准",
+          "value": "1.75%-2.25%"
+        },
+        {
+          "slot": 2,
+          "label": "起购金额",
+          "value": "20 万元"
+        },
+        {
+          "slot": 3,
+          "label": "期限",
+          "value": "132 天"
+        }
+      ],
+      "metricsJson": "[{\"slot\":1,\"label\":\"业绩比较基准\",\"value\":\"1.75%-2.25%\"},{\"slot\":2,\"label\":\"起购金额\",\"value\":\"20 万元\"},{\"slot\":3,\"label\":\"期限\",\"value\":\"132 天\"}]",
+      "salesRiskCode": "1",
+      "salesRiskLabel": "PR1-风险低",
+      "pageNumber": 71,
+      "pageIndex": 4,
+      "queryKey": "all",
+      "queryMenuLabel": "11/ALL",
+      "areaCode": "0000",
+      "sourceUrl": "https://mybank.icbc.com.cn/icbc/newperbank/perbank3/finance/_financesub_out.jsp?Area_code=0000",
+      "retrievedAt": "2026-08-21T14:42:38.776Z"
+    },
+    {
+      "productCode": "9N26606G",
+      "productName": "兴银稳利恒盈封闭式2026年606期（私银）",
+      "issuerLabel": "代销兴银理财",
+      "salesStatus": "募集中",
+      "benchmarkLabel": "业绩比较基准",
+      "benchmarkValue": "2.62%-3.12%",
+      "primaryMetricLabel": "业绩比较基准",
+      "primaryMetricValue": "2.62%-3.12%",
+      "unitNav": "",
+      "per10kIncome": "",
+      "annualizedYield": "",
+      "minimumPurchase": "20 万元",
+      "term": "1129 天",
+      "metrics": [
+        {
+          "slot": 1,
+          "label": "业绩比较基准",
+          "value": "2.62%-3.12%"
+        },
+        {
+          "slot": 2,
+          "label": "起购金额",
+          "value": "20 万元"
+        },
+        {
+          "slot": 3,
+          "label": "期限",
+          "value": "1129 天"
+        }
+      ],
+      "metricsJson": "[{\"slot\":1,\"label\":\"业绩比较基准\",\"value\":\"2.62%-3.12%\"},{\"slot\":2,\"label\":\"起购金额\",\"value\":\"20 万元\"},{\"slot\":3,\"label\":\"期限\",\"value\":\"1129 天\"}]",
+      "salesRiskCode": "2",
+      "salesRiskLabel": "PR2-风险较低",
+      "pageNumber": 71,
+      "pageIndex": 5,
+      "queryKey": "all",
+      "queryMenuLabel": "11/ALL",
+      "areaCode": "0000",
+      "sourceUrl": "https://mybank.icbc.com.cn/icbc/newperbank/perbank3/finance/_financesub_out.jsp?Area_code=0000",
+      "retrievedAt": "2026-08-21T14:42:38.776Z"
+    },
+    {
+      "productCode": "9N26678G",
+      "productName": "兴银稳利恒盈封闭式2026年678期（私银）",
+      "issuerLabel": "代销兴银理财",
+      "salesStatus": "募集中",
+      "benchmarkLabel": "业绩比较基准",
+      "benchmarkValue": "2.20%-2.70%",
+      "primaryMetricLabel": "业绩比较基准",
+      "primaryMetricValue": "2.20%-2.70%",
+      "unitNav": "",
+      "per10kIncome": "",
+      "annualizedYield": "",
+      "minimumPurchase": "20 万元",
+      "term": "370 天",
+      "metrics": [
+        {
+          "slot": 1,
+          "label": "业绩比较基准",
+          "value": "2.20%-2.70%"
+        },
+        {
+          "slot": 2,
+          "label": "起购金额",
+          "value": "20 万元"
+        },
+        {
+          "slot": 3,
+          "label": "期限",
+          "value": "370 天"
+        }
+      ],
+      "metricsJson": "[{\"slot\":1,\"label\":\"业绩比较基准\",\"value\":\"2.20%-2.70%\"},{\"slot\":2,\"label\":\"起购金额\",\"value\":\"20 万元\"},{\"slot\":3,\"label\":\"期限\",\"value\":\"370 天\"}]",
+      "salesRiskCode": "2",
+      "salesRiskLabel": "PR2-风险较低",
+      "pageNumber": 71,
+      "pageIndex": 6,
+      "queryKey": "all",
+      "queryMenuLabel": "11/ALL",
+      "areaCode": "0000",
+      "sourceUrl": "https://mybank.icbc.com.cn/icbc/newperbank/perbank3/finance/_financesub_out.jsp?Area_code=0000",
+      "retrievedAt": "2026-08-21T14:42:38.776Z"
+    },
+    {
+      "productCode": "9N26682G",
+      "productName": "兴银稳利恒盈封闭式2026年682期（私银）",
+      "issuerLabel": "代销兴银理财",
+      "salesStatus": "募集中",
+      "benchmarkLabel": "业绩比较基准",
+      "benchmarkValue": "2.40%-2.90%",
+      "primaryMetricLabel": "业绩比较基准",
+      "primaryMetricValue": "2.40%-2.90%",
+      "unitNav": "",
+      "per10kIncome": "",
+      "annualizedYield": "",
+      "minimumPurchase": "20 万元",
+      "term": "757 天",
+      "metrics": [
+        {
+          "slot": 1,
+          "label": "业绩比较基准",
+          "value": "2.40%-2.90%"
+        },
+        {
+          "slot": 2,
+          "label": "起购金额",
+          "value": "20 万元"
+        },
+        {
+          "slot": 3,
+          "label": "期限",
+          "value": "757 天"
+        }
+      ],
+      "metricsJson": "[{\"slot\":1,\"label\":\"业绩比较基准\",\"value\":\"2.40%-2.90%\"},{\"slot\":2,\"label\":\"起购金额\",\"value\":\"20 万元\"},{\"slot\":3,\"label\":\"期限\",\"value\":\"757 天\"}]",
+      "salesRiskCode": "2",
+      "salesRiskLabel": "PR2-风险较低",
+      "pageNumber": 71,
+      "pageIndex": 7,
+      "queryKey": "all",
+      "queryMenuLabel": "11/ALL",
+      "areaCode": "0000",
+      "sourceUrl": "https://mybank.icbc.com.cn/icbc/newperbank/perbank3/finance/_financesub_out.jsp?Area_code=0000",
+      "retrievedAt": "2026-08-21T14:42:38.776Z"
+    },
+    {
+      "productCode": "26MB052G",
+      "productName": "中邮理财灵活·鸿运最短持有7天52号（私银）理财产品",
+      "issuerLabel": "代销中邮理财",
+      "salesStatus": "募集中",
+      "benchmarkLabel": "业绩比较基准",
+      "benchmarkValue": "1.20%-1.50%",
+      "primaryMetricLabel": "业绩比较基准",
+      "primaryMetricValue": "1.20%-1.50%",
+      "unitNav": "",
+      "per10kIncome": "",
+      "annualizedYield": "",
+      "minimumPurchase": "20 万元",
+      "term": "最短持有 7 天",
+      "metrics": [
+        {
+          "slot": 1,
+          "label": "业绩比较基准",
+          "value": "1.20%-1.50%"
+        },
+        {
+          "slot": 2,
+          "label": "起购金额",
+          "value": "20 万元"
+        },
+        {
+          "slot": 3,
+          "label": "期限",
+          "value": "最短持有 7 天"
+        }
+      ],
+      "metricsJson": "[{\"slot\":1,\"label\":\"业绩比较基准\",\"value\":\"1.20%-1.50%\"},{\"slot\":2,\"label\":\"起购金额\",\"value\":\"20 万元\"},{\"slot\":3,\"label\":\"期限\",\"value\":\"最短持有 7 天\"}]",
+      "salesRiskCode": "2",
+      "salesRiskLabel": "PR2-风险较低",
+      "pageNumber": 71,
+      "pageIndex": 8,
+      "queryKey": "all",
+      "queryMenuLabel": "11/ALL",
+      "areaCode": "0000",
+      "sourceUrl": "https://mybank.icbc.com.cn/icbc/newperbank/perbank3/finance/_financesub_out.jsp?Area_code=0000",
+      "retrievedAt": "2026-08-21T14:42:38.776Z"
+    },
+    {
+      "productCode": "8312GS",
+      "productName": "招银理财招赢日日金212号现金管理类理财计划（私银）",
+      "issuerLabel": "代销招银理财",
+      "salesStatus": "募集中",
+      "benchmarkLabel": "",
+      "benchmarkValue": "",
+      "primaryMetricLabel": "每万份收益（元）",
+      "primaryMetricValue": "--",
+      "unitNav": "",
+      "per10kIncome": "--",
+      "annualizedYield": "--",
+      "minimumPurchase": "20 万元",
+      "term": "无固定期限",
+      "metrics": [
+        {
+          "slot": 1,
+          "label": "每万份收益（元）",
+          "value": "--"
+        },
+        {
+          "slot": 2,
+          "label": "起购金额",
+          "value": "20 万元"
+        },
+        {
+          "slot": 3,
+          "label": "期限",
+          "value": "无固定期限"
+        },
+        {
+          "slot": 4,
+          "label": "七日年化收益率",
+          "value": "--"
+        }
+      ],
+      "metricsJson": "[{\"slot\":1,\"label\":\"每万份收益（元）\",\"value\":\"--\"},{\"slot\":2,\"label\":\"起购金额\",\"value\":\"20 万元\"},{\"slot\":3,\"label\":\"期限\",\"value\":\"无固定期限\"},{\"slot\":4,\"label\":\"七日年化收益率\",\"value\":\"--\"}]",
+      "salesRiskCode": "1",
+      "salesRiskLabel": "PR1-风险低",
+      "pageNumber": 71,
+      "pageIndex": 9,
+      "queryKey": "all",
+      "queryMenuLabel": "11/ALL",
+      "areaCode": "0000",
+      "sourceUrl": "https://mybank.icbc.com.cn/icbc/newperbank/perbank3/finance/_financesub_out.jsp?Area_code=0000",
+      "retrievedAt": "2026-08-21T14:42:38.776Z"
+    }
+  ]
+}

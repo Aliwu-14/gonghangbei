@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0",
+  "queryKey": "all",
+  "queryLabel": "全部产品",
+  "areaCode": "0000",
+  "batchNumber": 1,
+  "pageStart": 1,
+  "pageEnd": 10,
+  "startedAt": "2026-08-21T14:40:18.472Z",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "status": "skipped",
+      "productCount": 10
+    },
+    {
+      "pageNumber": 2,
+      "status": "skipped",
+      "productCount": 10
+    },
+    {
+      "pageNumber": 3,
+      "status": "fetched",
+      "productCount": 10
+    },
+    {
+      "pageNumber": 4,
+      "status": "fetched",
+      "productCount": 10
+    },
+    {
+      "pageNumber": 5,
+      "status": "fetched",
+      "productCount": 10
+    },
+    {
+      "pageNumber": 6,
+      "status": "fetched",
+      "productCount": 10
+    },
+    {
+      "pageNumber": 7,
+      "status": "fetched",
+      "productCount": 10
+    },
+    {
+      "pageNumber": 8,
+      "status": "fetched",
+      "productCount": 10
+    },
+    {
+      "pageNumber": 9,
+      "status": "fetched",
+      "productCount": 10
+    },
+    {
+      "pageNumber": 10,
+      "status": "fetched",
+      "productCount": 10
+    }
+  ],
+  "errors": [],
+  "finishedAt": "2026-08-21T14:40:40.060Z",
+  "status": "complete"
+}

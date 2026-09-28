@@ -1,0 +1,93 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+.yarn/install-state.gz
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# local env files
+.env*.local
+
+# ICBC crawler runtime state
+/data/icbc-products/.cookies/
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# ── Python cache ────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+downloads/
+eggs/
+*.egg-info/
+
+# ── Office temporary files ─────────────────────────────────
+~$*.docx
+~$*.doc
+~$*.xlsx
+~$*.pptx
+~$*.pdf
+
+# ── Log files ──────────────────────────────────────────────
+*.log
+*_log.txt
+
+# ── Build / debug scripts ─────────────────────────────────
+build_*.py
+debug*.py
+check*.py
+fix_*.py
+verify*.py
+add_*.py
+enhance_*.py
+optimize*.py
+read*.py
+rebuild*.py
+reorder*.py
+sync*.py
+gen_*.py
+unify_format.py
+full_toc.py
+
+# ── PPTX / DOCX historical versions ────────────────────────
+方案/**/*.pptx
+方案/**/~*.docx
+方案/**/*.docx
+方案/**/*.md
+
+# ── Figures & intermediate outputs ──────────────────────────
+figures_*/
+ref_*/
+docx_extract/
+v*_extract/
+sample_fig*.png
+style_*.png

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "1.0",
+  "queryKey": "all",
+  "queryLabel": "全部产品",
+  "queryMenuLabel": "11/ALL",
+  "areaCode": "0000",
+  "sourceEntryUrl": "https://mybank.icbc.com.cn/icbc/newperbank/perbank3/finance/_financesub_out.jsp",
+  "sourceListUrl": "https://mybank.icbc.com.cn/servlet/ICBCBaseReqServletNoSession",
+  "retrievedAt": "2026-08-21T14:48:10.647Z",
+  "totalPagesReported": 138,
+  "totalRecordsReported": 1375,
+  "fetchedPageCount": 138,
+  "parsedRecordCount": 1375,
+  "uniqueProductCount": 1375,
+  "duplicateRecordCount": 0,
+  "failedPageCount": 0
+}

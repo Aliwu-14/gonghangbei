@@ -78,11 +78,33 @@ gen_*.py
 unify_format.py
 full_toc.py
 
-# ── PPTX / DOCX historical versions ────────────────────────
-方案/**/*.pptx
-方案/**/~*.docx
-方案/**/*.docx
-方案/**/*.md
+# ── Plan directory: exclude history, keep upgrade ───────────
+方案/*.pptx
+方案/*~*.docx
+方案/*.docx
+方案/*.pdf
+方案/*.md
+方案/*.py
+方案/*.txt
+方案/__pycache__/
+方案/docx_extract/
+方案/figures*/
+方案/ref_*/
+方案/v*_extract/
+方案/sample_fig*.png
+方案/style_*.png
+方案/智能_*
+方案/高手*
+方案/高净值*
+方案/参加*
+方案/选题*
+方案/报告/
+方案/参赛方案*
+# Whitelist upgrade directory
+!方案/upgrade/
+!方案/upgrade/*.md
+!方案/upgrade/*.docx
+!方案/upgrade/*.py
 
 # ── Figures & intermediate outputs ──────────────────────────
 figures_*/
